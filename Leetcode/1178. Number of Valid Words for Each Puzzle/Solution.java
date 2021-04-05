@@ -1,4 +1,4 @@
-// Final Optimized
+// Final Optimized - MEDIUM
 
 import java.util.*;
 
