@@ -1,4 +1,4 @@
-//Optimized and preferred since I don't know how to implement a stack in code
+//Optimized and preferred since I don't know how to implement a stack in code. Its possible to learn from this.
 
 import java.util.*;
 
