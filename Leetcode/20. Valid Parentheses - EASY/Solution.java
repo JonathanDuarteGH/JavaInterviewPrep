@@ -1,4 +1,4 @@
-// Optimized Final Solution - EASY
+// Optimized Final Solution - EASY char to array is an easy method to memorize
 
 import java.util.*;
 

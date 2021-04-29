@@ -6,7 +6,7 @@ class Solution {
   Stack<Integer> stack;
   Stack<Integer> minStack;
 
-  public MinStack() {
+  public void MinStack() {
     stack = new Stack<>();
     minStack = new Stack<>();
   }
