@@ -1,4 +1,4 @@
-//Optimized, preferred,and its another person's solution cause I couldn't do it
+//Optimized, preferred,and its another person's solution cause I couldn't do it.
 
 class Solution {
   public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
