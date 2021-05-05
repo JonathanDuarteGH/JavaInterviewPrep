@@ -1,4 +1,4 @@
-// Optimized Final Solution - EASY char to array is an easy method to memorize
+// Optimized Final Solution - EASY char to array is an easy method to memorize. Better than hashmapping
 
 import java.util.*;
 
