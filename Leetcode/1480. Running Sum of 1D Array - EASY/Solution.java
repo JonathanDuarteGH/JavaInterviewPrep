@@ -1,4 +1,4 @@
-// Optimized and preferred
+// Optimized and preferred. Really easy
 
 import java.util.*;
 
